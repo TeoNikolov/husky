@@ -15,8 +15,8 @@
 </script>
 
 
-<div class="flex flex-col items-center justify-center min-h-screen bg-gray-50 px-4 py-10">
-    <div class="w-full max-w-[40em] flex flex-col items-center justify-center">
+<div class="flex flex-col items-center justify-center min-h-screen bg-gray-400 px-4 py-10">
+    <div class="w-full max-w-[40em] flex flex-col items-center justify-center bg-gray-100 rounded-3xl p-8">
         <div class="text-left">
             <h1 class="text-3xl text-gray-800 mb-12"><span class="font-bold">Welcome!</span>
                 <br>
@@ -25,7 +25,7 @@
             <h2 class="text-2xl text-gray-700">Currently you can only get random husky pics.</h2>
         </div>
 
-        <div id="image-container" class="mt-6 w-full max-w-[25em] h-[20em] sm:h-[25em] p-4 flex items-center justify-center border-4 border-gray-500 rounded-4xl shadow-lg bg-gray-100">
+        <div id="image-container" class="mt-6 w-full max-w-[25em] h-[20em] sm:h-[25em] p-4 flex items-center justify-center border-4 border-gray-500 rounded-4xl shadow-lg bg-white">
             <img id="image-frame" class="w-full h-full object-contain" src="https://raw.githubusercontent.com/TeoNikolov/husky/refs/heads/main/husky.webp" alt="Husky" />
             <div id="error-message" style="color: red;"></div>
         </div>
