@@ -15,8 +15,8 @@
 </script>
 
 
-<div class="flex flex-col items-center justify-center min-h-screen bg-gray-400 px-4 py-10">
-    <div class="w-full max-w-[40em] flex flex-col items-center justify-center bg-gray-100 rounded-3xl p-6">
+<div class="flex flex-col items-center justify-center min-h-screen bg-gray-100 px-4 py-10">
+    <div class="w-full max-w-[40em] flex flex-col items-center justify-center rounded-3xl p-6">
         <div class="text-left">
             <h1 class="text-3xl text-gray-800 mb-12"><span class="font-bold">Welcome!</span>
                 <br>
