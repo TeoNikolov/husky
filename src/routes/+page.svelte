@@ -15,14 +15,13 @@
 </script>
 
 
-<div class="flex flex-col items-center justify-center min-h-screen bg-gray-100 px-4 py-10">
+<div class="flex flex-col items-center justify-center min-h-screen bg-gray-100 px-4 py-4 sm:py-10">
     <div class="w-full max-w-[40em] flex flex-col items-center justify-center rounded-3xl p-6">
         <div class="text-left">
             <h1 class="text-3xl text-gray-800 mb-12"><span class="font-bold">Welcome!</span>
                 <br>
-                This is a page about all-things-husky.
+                To husky land.
             </h1>
-            <h2 class="text-2xl text-gray-700">Currently you can only get random husky pics.</h2>
         </div>
 
         <div id="image-container" class="mt-6 w-full max-w-[25em] aspect-square p-4 flex items-center justify-center border-4 border-gray-500 rounded-4xl shadow-lg bg-white">
